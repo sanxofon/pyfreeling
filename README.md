@@ -455,26 +455,6 @@ python freeling.py -s ./test/es/ -t ./test/es/tmp_output/shallow -p 50225 -f "*w
 python freeling.py -s ./test/es/ -t ./test/es/tmp_output/shallow -p 50125 -f "*wo_sentences.xml" -e p -o xml --constituency
 ```
 
-### Output in CONLL
-
-#### start the server
-
-#### run the wrapper
-
-## Dependency parsing
-
-### Output in XML
-
-#### start server
-
-#### run the wrapper
-
-### Output in CONLL
-
-#### start the server
-
-#### run the wrapper
-
 # Testing
 
 Run:
